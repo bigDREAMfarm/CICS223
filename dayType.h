@@ -39,7 +39,7 @@ private:
 	string prevDay;
 	string calcDay;
 	int incrementDay;
-	string daysOfWeek[listLength];
+	string daysOfWeek[7] = { "Sun", "Mon", "Tues", "Wed", "Thurs", "Fri", "Sat" };
 	int dayLoc;
 
 };

@@ -7,7 +7,7 @@
 
 using namespace std;
 
-const string daysOfWeek[] = { "Sun", "Mon", "Tues", "Wed", "Thurs", "Fri", "Sat" };
+
 
 
 void dayType::set(string d, int i)
